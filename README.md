@@ -6,8 +6,8 @@ This is a basic demonstration of how to deploy a deep learning model using strea
 I have used LSTM as my language model and a dataset from Kaggle - https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data</br>
 
 `git clone https://github.com/tejaskhare99/Deploying-LSTM-based-Sentiment-Analysis-using-Streamlit.git`
-`cd Deploying-LSTM-based-Sentiment-Analysis-using-Streamlit
- pip install -r requirements.txt`
+`cd Deploying-LSTM-based-Sentiment-Analysis-using-Streamlit`
+ `pip install -r requirements.txt`
 
 `streamit run lstm.py`
 
