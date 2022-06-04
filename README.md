@@ -5,9 +5,9 @@
 This is a basic demonstration of how to deploy a deep learning model using streamlit on local server.</br>
 I have used LSTM as my language model and a dataset from Kaggle - https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data</br>
 
-`git clone https://github.com/tejaskhare99/Deploying-LSTM-based-Sentiment-Analysis-using-Streamlit.git`
-`cd Deploying-LSTM-based-Sentiment-Analysis-using-Streamlit`
- `pip install -r requirements.txt`
+`git clone https://github.com/tejaskhare99/Deploying-LSTM-based-Sentiment-Analysis-using-Streamlit.git`</br>
+`cd Deploying-LSTM-based-Sentiment-Analysis-using-Streamlit`<br>
+ `pip install -r requirements.txt`<br>
 
 `streamit run lstm.py`
 
